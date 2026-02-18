@@ -1,1 +1,2 @@
 # ACL4SSR_Online_Full_WithIcon_Custom.yaml
+适用于sub-store的自用yaml
