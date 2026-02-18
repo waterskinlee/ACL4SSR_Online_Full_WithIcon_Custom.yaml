@@ -1,3 +1,343 @@
+proxies:
+  - name: "🇭🇰 HK|官方优选|37ms"
+    server: 104.18.43.197
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages333.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages333.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|38ms"
+    server: 104.18.43.69
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages222.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages222.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|38ms 2"
+    server: 104.19.61.190
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages333.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages333.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|39ms"
+    server: 104.18.43.108
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages222.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages222.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|39ms 2"
+    server: 104.19.57.105
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages333.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages333.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|40ms"
+    server: 172.64.147.203
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages222.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages222.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|40ms 2"
+    server: 172.64.229.167
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages333.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages333.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|40ms 3"
+    server: 104.18.40.82
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages222.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages222.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|40ms 4"
+    server: 172.64.145.87
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages333.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages333.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|41ms"
+    server: 104.18.33.46
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages222.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages222.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|41ms 2"
+    server: 104.18.44.231
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages333.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages333.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|42ms"
+    server: 172.64.229.203
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages222.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages222.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|42ms 2"
+    server: 172.64.147.149
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages333.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages333.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|42ms 3"
+    server: 172.64.144.193
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages222.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages222.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|42ms 4"
+    server: 172.64.147.182
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages333.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages333.989893.xyz
+
+  - name: "🇭🇰 HK|官方优选|42ms 5"
+    server: 104.19.35.127
+    port: 443
+    type: vless
+    uuid: 647b8250-05bb-40b4-8f9a-be70217262bd
+    tls: true
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: pages222.989893.xyz
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    servername: pages222.989893.xyz
+
+  - type: vless
+    name: US CDN-RN
+    server: rn.989893.xyz
+    port: 443
+    uuid: 08145a9e-f725-4c97-85b1-448ec5885a20
+    tls: true
+    client-fingerprint: chrome
+    alpn:
+      - h2
+      - http/1.1
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      headers:
+        Host: rn.989893.xyz
+      path: /ec7da572-0714-4a82-8c30-d489679f7ce7
+    encryption: none
+    servername: rn.989893.xyz
+
 proxy-groups:
   - name: 节点选择
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Proxy.png
@@ -12,16 +352,19 @@ proxy-groups:
       - 香港节点
       - 手动切换
       - DIRECT
+
   - name: 手动切换
     icon: https://testingcf.jsdelivr.net/gh/shindgewongxj/WHATSINStash@master/icon/select.png
     include-all: true
     type: select
+
   - name: 自动选择
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Auto.png
     type: url-test
     include-all: true
     interval: 300
     tolerance: 50
+
   - name: 电报消息
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Telegram.png
     type: select
@@ -36,21 +379,7 @@ proxy-groups:
       - 香港节点
       - 手动切换
       - DIRECT
-  - name: OpenAi
-    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bot.png
-    type: select
-    proxies:
-      - 节点选择
-      - 自动选择
-      - AI服务
-      - 狮城节点
-      - 台湾节点
-      - 日本节点
-      - 美国节点
-      - 韩国节点
-      - 香港节点
-      - 手动切换
-      - DIRECT
+
   - name: AI服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AI.png
     type: select
@@ -66,22 +395,7 @@ proxy-groups:
       - 韩国节点
       - 手动切换
       - DIRECT
-  - name: GEMINI
-    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AI.png
-    type: select
-    include-all: true
-    exclude-filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
-    proxies:
-      - 节点选择
-      - 自动选择
-      - AI服务
-      - 狮城节点
-      - 台湾节点
-      - 日本节点
-      - 美国节点
-      - 韩国节点
-      - 手动切换
-      - DIRECT
+
   - name: 油管视频
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
     type: select
@@ -96,6 +410,7 @@ proxy-groups:
       - 韩国节点
       - 手动切换
       - DIRECT
+
   - name: 奈飞视频
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     type: select
@@ -111,6 +426,7 @@ proxy-groups:
       - 韩国节点
       - 手动切换
       - DIRECT
+
   - name: 巴哈姆特
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bahamut.png
     type: select
@@ -119,6 +435,7 @@ proxy-groups:
       - 节点选择
       - 手动切换
       - DIRECT
+
   - name: 哔哩哔哩
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/bilibili.png
     type: select
@@ -126,6 +443,7 @@ proxy-groups:
       - 全球直连
       - 台湾节点
       - 香港节点
+
   - name: 国外媒体
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/ForeignMedia.png
     type: select
@@ -140,6 +458,7 @@ proxy-groups:
       - 韩国节点
       - 手动切换
       - DIRECT
+
   - name: 国内媒体
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/DomesticMedia.png
     type: select
@@ -150,6 +469,22 @@ proxy-groups:
       - 狮城节点
       - 日本节点
       - 手动切换
+
+  - name: 谷歌服务
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
+    type: select
+    proxies:
+      - 节点选择
+      - 自动选择
+      - 美国节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 韩国节点
+      - 香港节点
+      - 手动切换
+      - DIRECT
+
   - name: 谷歌FCM
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
     type: select
@@ -163,6 +498,7 @@ proxy-groups:
       - 韩国节点
       - 香港节点
       - 手动切换
+
   - name: 微软Bing
     icon: https://testingcf.jsdelivr.net/gh/shindgewongxj/WHATSINStash@master/icon/bing.png
     type: select
@@ -176,6 +512,7 @@ proxy-groups:
       - 日本节点
       - 韩国节点
       - 手动切换
+
   - name: 微软云盘
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/OneDrive.png
     type: select
@@ -189,6 +526,7 @@ proxy-groups:
       - 日本节点
       - 韩国节点
       - 手动切换
+
   - name: 微软服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Microsoft.png
     type: select
@@ -202,6 +540,7 @@ proxy-groups:
       - 日本节点
       - 韩国节点
       - 手动切换
+
   - name: 苹果服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple.png
     type: select
@@ -215,6 +554,7 @@ proxy-groups:
       - 日本节点
       - 韩国节点
       - 手动切换
+
   - name: 游戏平台
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Game.png
     type: select
@@ -228,6 +568,7 @@ proxy-groups:
       - 日本节点
       - 韩国节点
       - 手动切换
+
   - name: 网易音乐
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netease_Music.png
     type: select
@@ -237,6 +578,7 @@ proxy-groups:
       - DIRECT
       - 节点选择
       - 自动选择
+
   - name: 全球直连
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Direct.png
     type: select
@@ -244,18 +586,21 @@ proxy-groups:
       - DIRECT
       - 节点选择
       - 自动选择
+
   - name: 广告拦截
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AdBlack.png
     type: select
     proxies:
       - REJECT
       - DIRECT
+
   - name: 应用净化
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hijacking.png
     type: select
     proxies:
       - REJECT
       - DIRECT
+
   - name: 漏网之鱼
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Final.png
     type: select
@@ -270,6 +615,7 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+
   - name: 香港节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
     include-all: true
@@ -277,6 +623,7 @@ proxy-groups:
     type: url-test
     interval: 300
     tolerance: 50
+
   - name: 日本节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Japan.png
     include-all: true
@@ -284,6 +631,7 @@ proxy-groups:
     type: url-test
     interval: 300
     tolerance: 50
+
   - name: 美国节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_States.png
     include-all: true
@@ -291,6 +639,7 @@ proxy-groups:
     type: url-test
     interval: 300
     tolerance: 50
+
   - name: 台湾节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Taiwan.png
     include-all: true
@@ -298,6 +647,7 @@ proxy-groups:
     type: url-test
     interval: 300
     tolerance: 50
+
   - name: 狮城节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Singapore.png
     include-all: true
@@ -305,6 +655,7 @@ proxy-groups:
     type: url-test
     interval: 300
     tolerance: 50
+
   - name: 韩国节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Korea.png
     include-all: true
@@ -312,11 +663,13 @@ proxy-groups:
     type: url-test
     interval: 300
     tolerance: 50
+
   - name: 奈飞节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     include-all: true
     filter: (?i)NF|奈飞|解锁|Netflix|NETFLIX|Media
     type: select
+
   - name: GLOBAL
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Global.png
     include-all: true
@@ -326,9 +679,8 @@ proxy-groups:
       - 手动切换
       - 自动选择
       - 电报消息
-      - OpenAi
       - AI服务
-      - GEMINI
+      - 谷歌服务
       - 油管视频
       - 奈飞视频
       - 巴哈姆特
@@ -362,6 +714,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   UnBan:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/UnBan.list
     path: ./ruleset/UnBan.list
@@ -369,6 +722,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   BanAD:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanAD.list
     path: ./ruleset/BanAD.list
@@ -376,6 +730,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   BanProgramAD:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanProgramAD.list
     path: ./ruleset/BanProgramAD.list
@@ -383,6 +738,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   GoogleFCM:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFCM.list
     path: ./ruleset/GoogleFCM.list
@@ -390,6 +746,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   GoogleCN:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/GoogleCN.list
     path: ./ruleset/GoogleCN.list
@@ -397,6 +754,15 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
+  Google:
+    url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Google.list
+    path: ./ruleset/Google.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+
   SteamCN:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/SteamCN.list
     path: ./ruleset/SteamCN.list
@@ -404,6 +770,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   AI-MIX:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/AI.list
     path: ./ruleset/AI.list
@@ -411,13 +778,15 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   GEMINI:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Gemini.list
     path: ./ruleset/Gemini.list
     behavior: classical
     interval: 86400
     format: text
-    type: http	
+    type: http
+
   Bing:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Bing.list
     path: ./ruleset/Bing.list
@@ -425,6 +794,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   OneDrive:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/OneDrive.list
     path: ./ruleset/OneDrive.list
@@ -432,6 +802,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Microsoft:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Microsoft.list
     path: ./ruleset/Microsoft.list
@@ -439,6 +810,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Apple:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Apple.list
     path: ./ruleset/Apple.list
@@ -446,6 +818,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Telegram:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Telegram.list
     path: ./ruleset/Telegram.list
@@ -453,6 +826,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   OpenAi:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/OpenAi.list
     path: ./ruleset/OpenAi.list
@@ -460,6 +834,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   NetEaseMusic:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/NetEaseMusic.list
     path: ./ruleset/NetEaseMusic.list
@@ -467,6 +842,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Epic:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Epic.list
     path: ./ruleset/Epic.list
@@ -474,6 +850,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Origin:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Origin.list
     path: ./ruleset/Origin.list
@@ -481,6 +858,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Sony:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Sony.list
     path: ./ruleset/Sony.list
@@ -488,6 +866,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Steam:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Steam.list
     path: ./ruleset/Steam.list
@@ -495,6 +874,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Nintendo:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Nintendo.list
     path: ./ruleset/Nintendo.list
@@ -502,6 +882,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   YouTube:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/YouTube.list
     path: ./ruleset/YouTube.list
@@ -509,6 +890,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Netflix:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Netflix.list
     path: ./ruleset/Netflix.list
@@ -516,6 +898,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Bahamut:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bahamut.list
     path: ./ruleset/Bahamut.list
@@ -523,6 +906,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   BilibiliHMT:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/BilibiliHMT.list
     path: ./ruleset/BilibiliHMT.list
@@ -530,6 +914,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Bilibili:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bilibili.list
     path: ./ruleset/Bilibili.list
@@ -537,6 +922,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   ChinaMedia:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaMedia.list
     path: ./ruleset/ChinaMedia.list
@@ -544,6 +930,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   ProxyMedia:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyMedia.list
     path: ./ruleset/ProxyMedia.list
@@ -551,6 +938,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   ProxyGFWlist:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyGFWlist.list
     path: ./ruleset/ProxyGFWlist.list
@@ -558,6 +946,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   ChinaDomain:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaDomain.list
     path: ./ruleset/ChinaDomain.list
@@ -565,6 +954,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   ChinaCompanyIp:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaCompanyIp.list
     path: ./ruleset/ChinaCompanyIp.list
@@ -572,6 +962,7 @@ rule-providers:
     interval: 86400
     format: text
     type: http
+
   Download:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Download.list
     path: ./ruleset/Download.list
@@ -581,38 +972,38 @@ rule-providers:
     type: http
 
 rules:
-  - "RULE-SET,LocalAreaNetwork,全球直连"
-  - "RULE-SET,UnBan,全球直连"
-  - "RULE-SET,BanAD,广告拦截"
-  - "RULE-SET,BanProgramAD,应用净化"
-  - "RULE-SET,GoogleFCM,谷歌FCM"
-  - "RULE-SET,GoogleCN,全球直连"
-  - "RULE-SET,SteamCN,全球直连"
-  - "RULE-SET,AI-MIX,AI服务"
-  - "RULE-SET,GEMINI,GEMINI"  
-  - "RULE-SET,Bing,微软Bing"
-  - "RULE-SET,OneDrive,微软云盘"
-  - "RULE-SET,Microsoft,微软服务"
-  - "RULE-SET,Apple,苹果服务"
-  - "RULE-SET,Telegram,电报消息"
-  - "RULE-SET,OpenAi,OpenAi"
-  - "RULE-SET,NetEaseMusic,网易音乐"
-  - "RULE-SET,Epic,游戏平台"
-  - "RULE-SET,Origin,游戏平台"
-  - "RULE-SET,Sony,游戏平台"
-  - "RULE-SET,Steam,游戏平台"
-  - "RULE-SET,Nintendo,游戏平台"
-  - "RULE-SET,YouTube,油管视频"
-  - "RULE-SET,Netflix,奈飞视频"
-  - "RULE-SET,Bahamut,巴哈姆特"
-  - "RULE-SET,BilibiliHMT,哔哩哔哩"
-  - "RULE-SET,Bilibili,哔哩哔哩"
-  - "RULE-SET,ChinaMedia,国内媒体"
-  - "RULE-SET,ProxyMedia,国外媒体"
-  - "RULE-SET,ProxyGFWlist,节点选择"
-  - "RULE-SET,ChinaDomain,全球直连"
-  - "RULE-SET,ChinaCompanyIp,全球直连"
-  - "RULE-SET,Download,全球直连"
-  - "GEOIP,CN,全球直连"
-
-  - "MATCH,漏网之鱼"
+  - RULE-SET,LocalAreaNetwork,全球直连
+  - RULE-SET,UnBan,全球直连
+  - RULE-SET,BanAD,广告拦截
+  - RULE-SET,BanProgramAD,应用净化
+  - RULE-SET,GoogleFCM,谷歌FCM
+  - RULE-SET,GoogleCN,全球直连
+  - RULE-SET,Google,谷歌服务
+  - RULE-SET,SteamCN,全球直连
+  - RULE-SET,AI-MIX,AI服务
+  - RULE-SET,GEMINI,AI服务
+  - RULE-SET,Bing,微软Bing
+  - RULE-SET,OneDrive,微软云盘
+  - RULE-SET,Microsoft,微软服务
+  - RULE-SET,Apple,苹果服务
+  - RULE-SET,Telegram,电报消息
+  - RULE-SET,OpenAi,AI服务
+  - RULE-SET,NetEaseMusic,网易音乐
+  - RULE-SET,Epic,游戏平台
+  - RULE-SET,Origin,游戏平台
+  - RULE-SET,Sony,游戏平台
+  - RULE-SET,Steam,游戏平台
+  - RULE-SET,Nintendo,游戏平台
+  - RULE-SET,YouTube,油管视频
+  - RULE-SET,Netflix,奈飞视频
+  - RULE-SET,Bahamut,巴哈姆特
+  - RULE-SET,BilibiliHMT,哔哩哔哩
+  - RULE-SET,Bilibili,哔哩哔哩
+  - RULE-SET,ChinaMedia,国内媒体
+  - RULE-SET,ProxyMedia,国外媒体
+  - RULE-SET,ProxyGFWlist,节点选择
+  - RULE-SET,ChinaDomain,全球直连
+  - RULE-SET,ChinaCompanyIp,全球直连
+  - RULE-SET,Download,全球直连
+  - GEOIP,CN,全球直连
+  - MATCH,漏网之鱼
