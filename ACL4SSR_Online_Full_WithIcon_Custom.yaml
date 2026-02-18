@@ -328,7 +328,7 @@ proxy-groups:
       - 电报消息
       - OpenAi
       - AI服务
-	  - GEMINI
+      - GEMINI
       - 油管视频
       - 奈飞视频
       - 巴哈姆特
