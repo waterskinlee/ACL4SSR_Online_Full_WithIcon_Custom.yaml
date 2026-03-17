@@ -271,7 +271,7 @@ proxy-groups:
   - name: 链式美国
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/US.png
     type: url-test
-    filter: (?i)链式
+    filter: (?i)链式|前置
     interval: 300
     tolerance: 50
   - name: 美国节点
