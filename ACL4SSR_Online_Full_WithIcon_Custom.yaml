@@ -270,8 +270,9 @@ proxy-groups:
     tolerance: 50
   - name: 链式美国
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/US.png
-    type: url-test
+    include-all: true
     filter: (?i)链式|前置
+    type: url-test    
     interval: 300
     tolerance: 50
   - name: 美国节点
