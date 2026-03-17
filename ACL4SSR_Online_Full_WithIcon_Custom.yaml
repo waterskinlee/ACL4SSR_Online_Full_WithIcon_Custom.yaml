@@ -348,6 +348,8 @@ proxy-groups:
       - 香港节点
       - 日本节点
       - 美国节点
+      - 链式美国
+      - 亚太前置测速池
       - 台湾节点
       - 狮城节点
       - 韩国节点
@@ -595,8 +597,8 @@ rules:
   - "RULE-SET,GoogleCN,全球直连"
   - "RULE-SET,SteamCN,全球直连"
   - "RULE-SET,AI-MIX,AI服务"
-  - "RULE-SET,GEMINI,AI服务"
-  - "RULE-SET,OpenAi,AI服务"  
+  - "RULE-SET,GEMINI,谷歌服务"
+  - "RULE-SET,OpenAi,AI服务"
   - "RULE-SET,Bing,微软Bing"
   - "RULE-SET,OneDrive,微软云盘"
   - "RULE-SET,Microsoft,微软服务"
