@@ -4,6 +4,8 @@ proxy-groups:
     type: select
     proxies:
       - 自动选择
+      - 亚太前置测速池
+      - 链式美国
       - 台湾节点
       - 狮城节点
       - 日本节点
