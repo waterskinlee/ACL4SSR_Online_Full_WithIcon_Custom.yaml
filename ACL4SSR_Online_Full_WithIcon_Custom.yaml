@@ -55,7 +55,6 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AI.png
     type: select
     include-all: true
-    exclude-filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
     proxies:
       - 链式美国
       - 节点选择
@@ -255,6 +254,11 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+  - name: 亚太前置测速池
+    type: url-test
+    filter: (?i)日本|川日|东京|大阪|港|HK|Hong Kong|JP
+    interval: 300
+    tolerance: 50
   - name: 香港节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
     include-all: true
