@@ -40,6 +40,7 @@ proxy-groups:
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
     type: select
     proxies:
+      - 链式美国 
       - 节点选择
       - 自动选择
       - 狮城节点
