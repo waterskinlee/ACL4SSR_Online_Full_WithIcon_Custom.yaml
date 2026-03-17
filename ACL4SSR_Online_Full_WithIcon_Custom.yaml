@@ -255,6 +255,7 @@ proxy-groups:
       - 韩国节点
       - 手动切换
   - name: 亚太前置测速池
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Asia_Map.png
     type: url-test
     filter: (?i)日本|川日|东京|大阪|港|HK|Hong Kong|JP
     interval: 300
