@@ -259,7 +259,7 @@ proxy-groups:
   - name: 亚太前置测速池
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Asia_Map.png
     include-all: true
-    filter: (?i)日本|川日|东京|大阪|港|HK|Hong Kong|JP|新|越|泰|马|印|韩|狮
+    filter: (?i)日本|川日|东京|大阪|港|HK|Hong Kong|JP|新|越|泰|马|印|韩|狮|台|tai|Tai|Sin|sin|Japan
     type: url-test
     interval: 300
     tolerance: 50
