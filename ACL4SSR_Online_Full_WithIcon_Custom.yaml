@@ -65,19 +65,11 @@ proxy-groups:
       - DIRECT
   - name: AI服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AI.png
-    type: select
-    proxies:
-      - 链式美国
-      - 节点选择
-      - 自动选择
-      - 故障转移
-      - 狮城节点
-      - 台湾节点
-      - 日本节点
-      - 美国节点
-      - 韩国节点
-      - 手动切换
-      - DIRECT
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    include-all: true
+    interval: 180
+    tolerance: 30
   - name: 油管视频
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
     type: select
