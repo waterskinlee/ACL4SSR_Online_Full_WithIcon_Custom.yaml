@@ -65,11 +65,23 @@ proxy-groups:
       - DIRECT
   - name: AI服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AI.png
-    type: url-test
-    url: http://www.gstatic.com/generate_204
-    include-all: true
-    interval: 180
-    tolerance: 30
+    type: select
+    proxies:
+      - 链式美国
+      - 节点选择
+      - 自动选择
+      - 故障转移
+      - 亚太前置测速池
+      - 悦组
+      - DanFeng组
+      - 狮城节点
+      - 台湾节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 香港节点
+      - 手动切换
+      - DIRECT
   - name: 油管视频
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
     type: select
@@ -269,6 +281,22 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 120
     tolerance: 30
+  - name: 悦组
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Server.png
+    type: url-test
+    include-all: true
+    filter: (?i)悦
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+  - name: DanFeng组
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Star.png
+    type: url-test
+    include-all: true
+    filter: ⚡
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
   - name: 香港节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
     type: url-test
