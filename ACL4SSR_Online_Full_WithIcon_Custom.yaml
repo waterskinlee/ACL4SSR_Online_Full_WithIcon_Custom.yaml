@@ -367,6 +367,7 @@ proxy-groups:
   - name: GLOBAL
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Global.png
     type: select
+    include-all: true
     proxies:
       - 节点选择
       - 手动切换
@@ -397,6 +398,8 @@ proxy-groups:
       - 美国节点
       - 链式美国
       - 亚太前置测速池
+      - 悦组
+      - DanFeng组
       - 台湾节点
       - 狮城节点
       - 韩国节点
