@@ -2,10 +2,13 @@ proxy-groups:
   - name: 节点选择
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Proxy.png
     type: select
+    include-all: true
     proxies:
       - 自动选择
       - 故障转移
       - 亚太前置测速池
+      - 悦组
+      - DanFeng组
       - 链式美国
       - 台湾节点
       - 狮城节点
