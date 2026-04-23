@@ -7,7 +7,6 @@ proxy-groups:
       - 自动选择
       - 故障转移
       - 亚太前置测速池
-      - 悦组
       - DanFeng组
       - 链式美国
       - 台湾节点
@@ -30,7 +29,6 @@ proxy-groups:
       - 链式美国
       - 故障转移
       - 亚太前置测速池
-      - 悦组
       - DanFeng组
       - 狮城节点
       - 台湾节点
@@ -87,7 +85,6 @@ proxy-groups:
       - 自动选择
       - 故障转移
       - 亚太前置测速池
-      - 悦组
       - DanFeng组
       - 狮城节点
       - 台湾节点
@@ -296,14 +293,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 120
     tolerance: 30
-  - name: 悦组
-    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Server.png
-    type: url-test
-    include-all: true
-    filter: (?i)悦
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
   - name: DanFeng组
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Star.png
     type: url-test
@@ -410,7 +399,6 @@ proxy-groups:
       - 美国节点
       - 链式美国
       - 亚太前置测速池
-      - 悦组
       - DanFeng组
       - 台湾节点
       - 狮城节点
